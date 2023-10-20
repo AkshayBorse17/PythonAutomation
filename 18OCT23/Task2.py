@@ -4,6 +4,7 @@ Num=int(input("Enter no : "))
 def call(Num):
     F0,F1=0,1
 
+
     if Num<0:
         Num = int(input("Enter Positive number : "))
         call(Num)
@@ -15,10 +16,9 @@ def call(Num):
     else:
         print("Fibonacci Series :", end="\t")
         for i in range(0, Num+1):
-            # print(F0, end=" ")
-
             print(F0, end=" ")
             if i==Num:
+
                 break
             Sum = F0 + F1
             F0 = F1
