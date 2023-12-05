@@ -9,7 +9,7 @@ def test_TC2():
 def test_TC3():
     import requests as req
 
-    resp = req.get("https://restful-booker.herokuapp.com./booking/2088")
+    resp = req.get("https://restful-booker.herokuapp.com./booking/3363")
     # print(resp.headers)
     # print(resp.status_code)
     data = resp.json()

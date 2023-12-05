@@ -1,8 +1,4 @@
-try:
-    a=4
-    b=0
-    print(a/b)
+# Python code to create a file
+f=open("ab.txt","a")
+f.write("bye")
 
-except Exception as err:
-    print(err)
-print("hello")
