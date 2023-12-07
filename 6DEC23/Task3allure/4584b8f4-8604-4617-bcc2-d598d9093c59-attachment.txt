@@ -1,0 +1,3 @@
+{'token': 'a134d590139f5de'}
+{'bookingid': 2905, 'booking': {'firstname': 'pat', 'lastname': 'Brown', 'totalprice': 111, 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'}}
+{'firstname': 'Raju', 'lastname': 'Herapheri', 'totalprice': 18181818, 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'}
